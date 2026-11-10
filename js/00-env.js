@@ -1,0 +1,1 @@
+"use strict";if(window.top!==window.self)try{window.top.location.replace(window.location.href)}catch(t){document.documentElement.textContent="Open Fretkit at https://christiangilkey.github.io/fretkit/"}

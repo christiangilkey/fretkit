@@ -1,0 +1,1 @@
+"use strict";function initModules(){initDrums(),initLyrics(),initSong(),initLearn(),initSync(),initLegal()}init();
